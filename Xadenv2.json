@@ -1,82 +1,62 @@
 [
   {
-    "id": 750,
+    "gameid": 750,
     "name": "Wurst Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/wurstclient.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/wurstclient.html"
   },
   {
-    "id": 751,
+    "gameid": 751,
     "name": "Uwu Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/uwuclient.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/uwuclient.html"
   },
   {
-    "id": 752,
+    "gameid": 752,
     "name": "Starlike Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/starlike.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/starlike.html"
   },
   {
-    "id": 753,
+    "gameid": 753,
     "name": "Solar Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/solarclient.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/solarclient.html"
   },
   {
-    "id": 754,
+    "gameid": 754,
     "name": "SkyFactory",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/skyfactory.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/skyfactory.html"
   },
   {
-    "id": 755,
+    "gameid": 755,
     "name": "Resent Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/resentclient.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/resentclient.html"
   },
   {
-    "id": 756,
+    "gameid": 756,
     "name": "Prism Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/prismclient.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/prismclient.html"
   },
   {
-    "id": 757,
+    "gameid": 757,
     "name": "Precision Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/precisionclient.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/precisionclient.html"
   },
   {
-    "id": 758,
+    "gameid": 758,
     "name": "Pixel Client",
     "cover": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/l-intro-1681757899-1357754332.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/pixelclient.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/stuff@main/files/pixelclient.html"
   },
   {
-    "id": 759,
+    "gameid": 759,
     "name": "Bee Swarm Sim",
     "cover": "https://cdn.jsdelivr.net/gh/Zotronix/Ignis-Games@main/Images/Bee%20Swarm%20Simulator.png",
-    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/BSS.html",
-    "author": "Amusement Vision, camthesaxman etc",
-    "authorLink": "https://monkeyball-online.pages.dev/"
+    "url": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/BSS.html"
   }
 ]
