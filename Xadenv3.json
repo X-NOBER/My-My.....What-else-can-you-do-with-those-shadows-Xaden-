@@ -58,5 +58,11 @@
     "name": "Bee Swarm Sim",
     "cover": "https://cdn.jsdelivr.net/gh/Zotronix/Ignis-Games@main/Images/Bee%20Swarm%20Simulator.png",
     "url": "https://cdn.jsdelivr.net/gh/X-NOBER/My-My-What-else-can-you-do-with-those-shadows-Xaden-@main/BSS.html"
+  },
+  {
+    "gameie": 760,
+    "name": "Hazmat Zombies",
+    "cover": "",
+    "url" : "https://cdn.jsdelivr.net/gh/X-NOBER/HAZMAT-ZOMBIES@main/index.html"
   }
 ]
